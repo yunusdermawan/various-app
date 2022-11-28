@@ -90,11 +90,7 @@ header {
   background: #ff6a95;
   color: #fff;
 }
-/*
-.text-display {
-  color: 333
-}
-*/
+
 [type='radio'] {
   opacity: 0;
 }
